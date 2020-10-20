@@ -11,7 +11,7 @@ function setup() {
     canvas.position((windowWidth - width) / 2, (windowHeight - height) / 2);
     prevMousePos = createVector(0, 0);
     position = createVector(0, 0);
-    scaleVal = 0.16608338398760678;
+    scaleVal = 0.3972143184582162;
 }
 function draw() {
     shader(myShader);
